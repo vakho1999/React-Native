@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "davaleba2",
+    "slug": "davaleba2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "davaleba2"
+}
